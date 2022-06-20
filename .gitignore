@@ -1,5 +1,7 @@
 .idea
 *.iml
+*.iws
+*.ipl
 target
 .gradle
 build
@@ -7,3 +9,4 @@ build
 .classpath
 .settings
 .pmd
+.DS_STORE
